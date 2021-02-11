@@ -1,1 +1,1 @@
-Miniproject proposed by Ken Thompson - write a program that prints its own source code to the command line. Ken does it with an array, I used an fstream to go outside the program and reference itself from there.
+Miniproject proposed by Ken Thompson - write a program that prints its own source code to the command line. Ken does it with an array of characters and some loops, I used an fstream to "go outside" the program and reference it from there.
